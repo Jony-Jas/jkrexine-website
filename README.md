@@ -1,8 +1,8 @@
 # jkrexine-website
 
-This website is build for JK Rexine
+This website is build for JK Rexine 🌐
 
-Link: https://jony-jas.github.io/jkrexine-website/index.html
+🔗 Link: https://jony-jas.github.io/jkrexine-website/index.html
 
 >Build using HTML, CSS, Javascript
 
