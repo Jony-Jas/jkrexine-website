@@ -11,6 +11,5 @@ This website is build for JK Rexine 🌐
 >You can use it for your own site
 
 #### Connect with me:
-* Instagram: https://www.instagram.com/jonyrockstar7/
 * Linkedin: https://www.linkedin.com/in/jony-jas-8888591bb/
 * Github: https://github.com/Jony-Jas/
